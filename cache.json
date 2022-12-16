@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "3td26EaELxJ9QzWu8PwQKwhUoTvcVRC9aVKg5cBsP3Cm",
+    "candyMachineCreator": "6xyMDbjQ7EMFyLSsuBsjKL8iPpMchotCqaTCF3XUuz2d",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Nilou",
+      "image_hash": "274054eea344160a5edadbee878bb557569fa89c0ab6e8c07eab343bcb294fb8",
+      "image_link": "https://nftstorage.link/ipfs/bafybeieimg4nzkmkpcog6hdl432filyr2hnfbw55jxjp4nconjutib4xcu/0.png",
+      "metadata_hash": "1cec5318acb99c0d61ad687bd66cd4c7000a1d1d4b4245336c693015f1c4d408",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiemwlpl3xqson5hn75aiftz5ygzwvtbkhecwe5aqwvf3hp6lbkope/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Kuki",
+      "image_hash": "e0c17e28ee0f3a9337fc4d564476b5bf64c51d4e2f736218d59d1b3d499c7770",
+      "image_link": "https://nftstorage.link/ipfs/bafybeieimg4nzkmkpcog6hdl432filyr2hnfbw55jxjp4nconjutib4xcu/1.png",
+      "metadata_hash": "063a299c995ce3eff5ec5c5038ffd3a9e89eeab47a6ee94dea5d09f0f2458389",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiemwlpl3xqson5hn75aiftz5ygzwvtbkhecwe5aqwvf3hp6lbkope/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Kuki2",
+      "image_hash": "8e107c43e86381565f991d083d3c2bc2aea70c8b126cc9dd749da23fde526247",
+      "image_link": "https://nftstorage.link/ipfs/bafybeieimg4nzkmkpcog6hdl432filyr2hnfbw55jxjp4nconjutib4xcu/2.png",
+      "metadata_hash": "c1a11ec10d857be3c3cc4896723093c2cf0b9fc4a5ccafe53f8d7b99a09836a3",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiemwlpl3xqson5hn75aiftz5ygzwvtbkhecwe5aqwvf3hp6lbkope/2.json",
+      "onChain": true
+    }
+  }
+}
